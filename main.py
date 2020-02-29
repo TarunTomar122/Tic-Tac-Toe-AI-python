@@ -8,8 +8,8 @@ pygame.init()
 
 # Title and Icon
 pygame.display.set_caption("TicTacToe")
-# icon = pygame.image.load("./assets/sprites/pacman/pacman_l.png")
-# pygame.display.set_icon(icon)
+icon = pygame.image.load("./assets/icon.png")
+pygame.display.set_icon(icon)
 
 # create the screen
 screen = pygame.display.set_mode((width,height))
