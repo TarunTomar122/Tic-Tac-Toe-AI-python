@@ -1,3 +1,10 @@
+"""
+    This is the ai implementation of tic-tac-toe game from scratch.We have used pygame for making GUI and then using minimax algorithm we have
+    created a play function that will predict the best possible move at any given instant and will make the move.
+    You just can't defeat this. It's always gonna result in draw or human loosing.
+
+"""
+
 import pygame
 from ai import *
 
@@ -58,15 +65,15 @@ player_move = True
 running = True
 
 while running:
-    
 
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             running = False
 
         if player_move:
-            temp = is_game_over(convert_matrix_to_list(matrix), unvisited_list(matrix))
-            
+            temp = is_game_over(convert_matrix_to_list(
+                matrix), unvisited_list(matrix))
+
             if temp:
                 print(temp)
                 running = False
@@ -78,18 +85,15 @@ while running:
                 if matrix[y][x] == 0:
                     matrix[y][x] = 1
                     player_move = False
-                    
 
     if player_move == False:
-        temp = player(matrix)
+        temp = play(matrix)
         if type(temp) == type('sd'):
             print(temp)
             running = False
         elif temp:
             matrix = temp
         player_move = True
-    
-    createMatrix()            
-    pygame.display.update()
 
-    
+    createMatrix()
+    pygame.display.update()
