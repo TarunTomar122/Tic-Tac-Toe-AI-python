@@ -6,3 +6,11 @@ We have used pygame to create the GUI of the game and then using the minimax alg
 most optimal moves at any game state.
 
 ![TestRunImage](https://github.com/TarunTomar122/Tic-Tac-Toe-AI-python/blob/master/assets/test/test.png)
+
+## Ka-ching!
+
+<p align="center">
+									  			<a href="https://razorpay.webug.space/TarunTomar122/Tic-Tac-Toe-AI-python"><img src="https://i.imgur.com/ihTLDXK.jpeg" width="200"/></a>
+											</p>
+
+# Supporters
