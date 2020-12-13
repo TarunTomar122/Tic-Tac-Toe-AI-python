@@ -14,4 +14,4 @@ most optimal moves at any game state.
 											</p>
 
 # Supporters
-  [<img src="https://avatars2.githubusercontent.com/u/54112921?v=4" width="60" height="60"/>](https://github.com/TarunTomar122)  [<img src="https://avatars2.githubusercontent.com/u/39331243?v=4" width="60" height="60"/>](https://github.com/kunaltawatia)
+  [<img src="https://avatars2.githubusercontent.com/u/54112921?v=4" width="60" height="60"/>](https://github.com/TarunTomar122)  [<img src="https://avatars2.githubusercontent.com/u/39331243?v=4" width="60" height="60"/>](https://github.com/kunaltawatia)  [<img src="https://avatars2.githubusercontent.com/u/7189329?v=4" width="60" height="60"/>](https://github.com/anandadavananda)
