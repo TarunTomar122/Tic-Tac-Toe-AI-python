@@ -14,3 +14,4 @@ most optimal moves at any game state.
 											</p>
 
 # Supporters
+  [<img src="https://avatars2.githubusercontent.com/u/54112921?v=4" width="60" height="60"/>](https://github.com/TarunTomar122)
